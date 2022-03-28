@@ -1,12 +1,19 @@
-# Hi there 👋
+# <p align="center" > Hi everyone ! 👋🏼</p>
 
-I'm Sloane Métayer. Here, you will learn few things about me !
+&nbsp;
+<p align="center" > 
+I'm Sloane Métayer and I'm in my first year of BUT in computer science in the IUT of Aix-En-Provence (France) !  </p>
+&nbsp;
 
+## More things about me
+-  😊 I'm currently learning **Java** and **SQL**
+-  ✨ I've already programming a bit in **HTML**, **CSS**
+-  :computer: I love **music** and **coding** in Java, C++ 
+-  🧡 I'm currently interested in **web development**
 
-I'm currently learning 
-- Java
-- C++
-
+## How to reach me ?
+- ![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedin : [SloaneMétayer](http:linkedin.com/in/sloane-metayer-7a803122a)
+- 📫 Email : <sloane.metayer@etu.univ-amu.fr>
 
 
 
