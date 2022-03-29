@@ -8,7 +8,7 @@ I'm Sloane Métayer and I'm in my first year of BUT in computer science in the I
 ## More things about me
 -  😊 I'm currently learning **Java** and **SQL**
 -  ✨ I've already programming a bit in **HTML**, **CSS**
--  :computer: I love **music** and **coding** in Java, C++ 
+-  :computer: I love **music** and I like **coding** in Java, C++ 
 -  🧡 I'm currently interested in **web development**
 
 ## How to reach me ?
