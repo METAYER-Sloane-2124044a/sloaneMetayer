@@ -2,7 +2,7 @@
 
 &nbsp;
 <p align="center" > 
-I'm Sloane Métayer and I'm in my first year of BUT in computer science in the IUT of Aix-En-Provence (France) !  </p>
+I'm Sloane Métayer and I'm in my second year of BUT in computer science in the IUT of Aix-En-Provence (France) !  </p>
 &nbsp;
 
 ## More things about me
